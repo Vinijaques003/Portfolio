@@ -4,6 +4,9 @@
 **Aluno:** Vinicius Jaques
 Esse projeto é uma página pessoal com informações profissionais que apresenta meu perfil, meus projetos, minhas habilidades, tecnologias e minhas formas de contato.
 
+## Link do site publicado
+https://vinijaques003.github.io/Portfolio/
+
 ## Tecnologias utilizadas
 - HTML
 - CSS
